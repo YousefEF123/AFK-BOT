@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "emerald.magmanode.com", 
-    "port": 30478,   
+    "ip": "WorldsCraft.aternos.me", 
+    "port": 60799,   
     "version": "1.12.1"   
   },
 
